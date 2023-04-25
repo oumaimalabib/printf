@@ -52,7 +52,7 @@ int is_digit(char c)
 }
 
 /**
- * convert_size_number - Casts a number to the specified size
+ * convert_size_number - Casts a num to ted size
  * @num: Num to be casted.
  * @size: the int indicating the type.
  *
